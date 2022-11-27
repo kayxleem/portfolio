@@ -1,16 +1,15 @@
 # portfolio
 
-## Project1
-
-![qataloog](project1/qataloog.png)
+## Project1: Book API
 
 
- web application that I worked on from 2019. It is an Edtech Platform that specialize the distribution of Learning Content. 
- Qataloog is currently built with Laravel API Backend and React Frontend and it is hosted on AWS.
+Book API is a Laravel Project built with TTD concepts. 
+
+This API calls an external API service which is the Ice And Fire API to get information about books and also implements its own database and has basic CRUD functions. It also includes the feature tests.
 
  The APIs are documented using postman. Here is a sample of my postman scratchpad
 
- ![qataloog](project1/generalpostman.png)
+![BookAPI](project1/postman.png.png)
 
 
-You can check it out at [Qataloog](https://qataloog).
+Project code available on [Githup Link](https://github.com/kayxleem/books-api).
